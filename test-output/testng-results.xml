@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-09T10:53:32 MESZ" name="Default suite" finished-at="2020-05-09T10:53:57 MESZ" duration-ms="24940">
+    <groups>
+    </groups>
+    <test started-at="2020-05-09T10:53:32 MESZ" name="Default test" finished-at="2020-05-09T10:53:57 MESZ" duration-ms="24940">
+      <class name="workingwithelements2.TestFrame">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:workingwithelements2.TestFrame@470f1802]" started-at="2020-05-09T10:53:32 MESZ" name="SetUp" finished-at="2020-05-09T10:53:55 MESZ" duration-ms="23275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testFrameWithIdOrName()[pri:0, instance:workingwithelements2.TestFrame@470f1802]" started-at="2020-05-09T10:53:55 MESZ" name="testFrameWithIdOrName" finished-at="2020-05-09T10:53:56 MESZ" duration-ms="560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFrameWithIdOrName -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:workingwithelements2.TestFrame@470f1802]" started-at="2020-05-09T10:53:56 MESZ" name="TearDown" finished-at="2020-05-09T10:53:57 MESZ" duration-ms="1033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- workingwithelements2.TestFrame -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

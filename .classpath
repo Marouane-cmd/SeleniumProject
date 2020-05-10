@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-5.0/lib/commons-cli-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-5.0/lib/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-5.0/lib/httpclient5-5.0.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-5.0/lib/httpclient5-cache-5.0.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-5.0/lib/httpclient5-fluent-5.0.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-5.0/lib/httpclient5-testing-5.0.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-5.0/lib/httpclient5-win-5.0.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-5.0/lib/httpcore5-5.0.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-5.0/lib/httpcore5-h2-5.0.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-5.0/lib/httpcore5-reactive-5.0.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-5.0/lib/httpcore5-testing-5.0.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-5.0/lib/jna-5.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-5.0/lib/jna-platform-5.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-5.0/lib/reactive-streams-1.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-5.0/lib/rxjava-2.2.8.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-5.0/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-4.5.12/lib/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-4.5.12/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-4.5.12/lib/fluent-hc-4.5.12.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-4.5.12/lib/httpclient-4.5.12.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-4.5.12/lib/httpclient-cache-4.5.12.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-4.5.12/lib/httpclient-osgi-4.5.12.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-4.5.12/lib/httpclient-win-4.5.12.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-4.5.12/lib/httpcore-4.4.13.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-4.5.12/lib/httpmime-4.5.12.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-4.5.12/lib/jna-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-4.5.12/lib/jna-platform-4.5.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
